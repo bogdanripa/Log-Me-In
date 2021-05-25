@@ -12,8 +12,7 @@ To set it up:
 
 1. Open this project in UiPath Studio
 2. Publish to your personal workspace
-3. Log in to Orchestrator and go to: My Workspace > Automations > Processes > Log.Me.In Process > More Options > Edit > Additional Settings
-And check "Automatically Start Process
+3. Log in to Orchestrator and go to: My Workspace > Automations > Processes > Log.Me.In Process > More Options > Edit > Additional Settings, and check "Automatically Start Process
 
 Now you can go in UiPath Assistant and run the process. It should run in the background on your machine and start automatically the next time you log in to your machine.
 
