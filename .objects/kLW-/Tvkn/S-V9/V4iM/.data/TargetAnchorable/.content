@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.google.com/" ContentHash="4S0g86SWe0O9Sdn5B2hk0Q" DesignTimeRectangle="724, 461, 487, 34" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='Search' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">033_V32qHhUKA-IhM-oJo5A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e8600e8e372d2497df9f0892ab576eeb.png" xmlns="">04drY_oB2NEeGzbvPN_G_xw</imageRef>
+</TargetAnchorable>
