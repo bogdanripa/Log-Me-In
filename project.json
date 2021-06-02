@@ -24,7 +24,8 @@
     ],
     "executionType": "Workflow",
     "readyForPiP": false,
-    "startsInPiP": false
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false
   },
   "designOptions": {
     "projectProfile": "Developement",
@@ -39,7 +40,7 @@
       ]
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
@@ -59,5 +60,6 @@
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Legacy"
+  "targetFramework": "Legacy",
+  "coverageMergeWorkflowPath": ""
 }
